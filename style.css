@@ -95,7 +95,13 @@ nav a:hover{
     font-weight:bold;
     text-align:center;
 }
-
+.app-image{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:30px;
+    display:block;
+}
 .hero h1{
     font-size:70px;
     margin-bottom:20px;
