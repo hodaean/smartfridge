@@ -234,7 +234,10 @@ nav{
 .secondary:hover{
     background:white;
     color:#1f7a4d;
+    
 }
+} /* Ende des @media-Blocks */
+
 /* Testimonials */
 
 #testimonials{
