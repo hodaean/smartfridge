@@ -182,11 +182,31 @@ section p{
 
 /* Footer */
 
+/* Footer */
+
 footer{
     background:#123b2a;
     color:white;
     text-align:center;
-    padding:30px;
+    padding:50px 20px;
+}
+
+.footer-links{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin:20px 0;
+    flex-wrap:wrap;
+}
+
+.footer-links a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.footer-links a:hover{
+    color:#b9f2c7;
 }
 
 /* Responsive */
