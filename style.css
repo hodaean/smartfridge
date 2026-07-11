@@ -200,13 +200,14 @@ footer{
 }
 
 .footer-links a{
-    color:white;
+    color:#ffffff !important;
     text-decoration:none;
+    font-weight:bold;
     transition:.3s;
 }
 
 .footer-links a:hover{
-    color:#b9f2c7;
+    color:#b9f2c7 !important;
 }
 
 /* Responsive */
