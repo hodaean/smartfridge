@@ -279,8 +279,9 @@ nav a:hover::after{
 /* General Sections */
 
 section{
-    padding:110px 9%;
+    padding:100px 10%;
     text-align:center;
+    scroll-margin-top:110px;
 }
 
 section:nth-of-type(even){
